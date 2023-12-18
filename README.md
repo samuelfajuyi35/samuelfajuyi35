@@ -10,14 +10,14 @@
 
 <h2>Certifications</h2>
 
-- [CompTia Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Google CyberSecurity Professional](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [ISC2 Certified in CyberSecurity](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Qualys Vulnerabilty Management](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [CompTia Security+](https://www.credly.com/earner/earned/badge/f9733a4e-ad6f-48b9-9d58-07564378c8e6)
+- [Google CyberSecurity Professional](https://www.credly.com/earner/earned/badge/dbb400ff-b19c-4207-9517-320b83821ae1)
+- [ISC2 Certified in CyberSecurity](https://www.credly.com/earner/earned/badge/57044542-43d2-4827-8de3-1821d39ed2ec)
+- Qualys Vulnerabilty Management Expected 01/24
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SamuelFajuyi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/samuel-fajuyi/
 
