@@ -4,7 +4,7 @@
 - <b>Implementing a Honeynet in Azure </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Vulnerability Management with Nessus</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/samuelfajuyi35/Vulnerability-Management-with-Nessus) 
 - <b>Active Directory</b>
   - [Home Lab](https://github.com/samuelfajuyi35/Active-Directory-Home-Lab)
 
