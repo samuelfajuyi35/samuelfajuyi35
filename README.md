@@ -2,7 +2,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Implementing a Honeynet in Azure </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Honeynet Lab(https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Vulnerability Management with Nessus</b>
   - [Vulnerability Management](https://github.com/samuelfajuyi35/Vulnerability-Management-with-Nessus) 
 - <b>Active Directory</b>
