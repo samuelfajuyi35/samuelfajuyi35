@@ -8,7 +8,7 @@
 - <b>Active Directory</b>
   - [Home Lab](https://github.com/samuelfajuyi35/Active-Directory-Home-Lab)
 
-<h2>Certifications</h2>
+<h2>📝 Certifications</h2>
 
 - [CompTia Security+](https://www.credly.com/earner/earned/badge/f9733a4e-ad6f-48b9-9d58-07564378c8e6)
 - [Google CyberSecurity Professional](https://www.credly.com/earner/earned/badge/dbb400ff-b19c-4207-9517-320b83821ae1)
