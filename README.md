@@ -6,7 +6,7 @@
 - <b>Vulnerability Management with Nessus</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Active Directory</b>
-  - [Home Lab]([samuelfajuyi35/Active-Directory-Home-Lab](https://github.com/samuelfajuyi35/Active-Directory-Home-Lab))
+  - [Home Lab](https://github.com/samuelfajuyi35/Active-Directory-Home-Lab)
 
 <h2>Certifications</h2>
 
