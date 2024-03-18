@@ -13,7 +13,6 @@
 - [CompTia Security+](https://www.credly.com/earner/earned/badge/f9733a4e-ad6f-48b9-9d58-07564378c8e6)
 - [Google CyberSecurity Professional](https://www.credly.com/earner/earned/badge/dbb400ff-b19c-4207-9517-320b83821ae1)
 - [ISC2 Certified in CyberSecurity](https://www.credly.com/earner/earned/badge/57044542-43d2-4827-8de3-1821d39ed2ec)
-- Qualys Vulnerabilty Management Expected 01/24
 
 <h2> 🤳 Connect with me:</h2>
 
